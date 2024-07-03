@@ -29,6 +29,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kartik_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/14kartiksingh)](https://www.linkedin.com/in/14kartiksingh)
 [![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
-[![Instagram Badge](https://img.shields.io/badge/-@14_kartik_singh-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/cr7.rajan)
+[![Instagram Badge](https://img.shields.io/badge/-@14_kartik_singh-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/14_kartik_singh)](https://www.instagram.com/14_kartik_singh)
 
 </p>
