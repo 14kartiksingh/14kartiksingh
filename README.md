@@ -33,3 +33,9 @@
 
 </p>
 <h2>📊 My Github Stats</h2>
+|                          |              |
+| :---------------------: | :----------------------: |
+| <a href="https://github.com/14kartiksingh/github-readme-stats"><img alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=14kartiksingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> | <a href="https://github.com/14kartiksingh/github-readme-stats"><img alt="Kartik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
+
+
+<br/>
