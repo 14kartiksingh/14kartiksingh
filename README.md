@@ -1,6 +1,6 @@
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> Hello World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=14kartiksingh" alt="kartik" /> </p>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=14kartiksingh" alt="kartik" /> </p>
 <p><i> I'm Kartik Singh Computer Science Student at Graphic Era Deemed to be University. </i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>C++</code>, <code>DSA</code></li>
