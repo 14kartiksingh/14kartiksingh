@@ -32,4 +32,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@14_kartik_singh-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/14_kartik_singh)](https://www.instagram.com/14_kartik_singh)
 
 </p>
-## 📊 My Github Stats
+<h2>📊 My Github Stats</h2>
