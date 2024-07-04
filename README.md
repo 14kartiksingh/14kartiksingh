@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=14kartiksingh" alt="kartik" /> </p>
 <p><i> I'm Kartik Singh Computer Science Student at Graphic Era Deemed to be University. </i></p>
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>C++</code>, <code>DSA</code></li>
+<li> 🌱 <b>I’m currently learning</b> : <code>DaVinchi Resolve</code>, <code>JavaSript</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C</code>,<code>JavaSript</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="www.linkedin.com/in/14kartiksingh">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://www.mistercoderz.com">https://www.mistercoderz.com</a></code></li>
