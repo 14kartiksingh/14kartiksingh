@@ -32,14 +32,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-@14_kartik_singh-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/14_kartik_singh)](https://www.instagram.com/14_kartik_singh)
 
 </p>
-<h2>📊 My Github Stats</h2>
+<!-- <h2>📊 My Github Stats</h2>
 
 |                          |              |
 | :---------------------: | :----------------------: |
 | <a href="https://github.com/14kartiksingh/github-readme-stats"><img alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=14kartiksingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> | <a href="https://github.com/14kartiksingh/github-readme-stats"><img alt="Kartik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14kartiksingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
 
 
-<br/>
+<br/> -->
 <p align="center">
     <a href="https://github.com/14kartiksingh/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kartik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=14kartiksingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
