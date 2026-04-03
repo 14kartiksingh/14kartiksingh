@@ -37,12 +37,13 @@
 
 <h2>📊 GitHub Stats :</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=14kartiksingh&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=14kartiksingh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=14kartiksingh&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=14kartiksingh&theme=tokyonight" />
 </p>
+
 
 <h2>📫 Connect Me :</h2>
 <p align="center"> 
