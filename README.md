@@ -36,8 +36,7 @@
 </p>
 
 <h2>📊 GitHub Stats :</h2>
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=14kartiksingh&show_icons=true&theme=tokyonight" />
+<p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=14kartiksingh&theme=tokyonight)
 </p>
 
 <p align="center">
