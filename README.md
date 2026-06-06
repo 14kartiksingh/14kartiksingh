@@ -1,6 +1,6 @@
 <h1>
 <img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px>
-<b> I'm Kartik Singh 👋 </b>
+<b> I'm Kartik Singh 👋</b>
 <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px>
 </h1>
 
